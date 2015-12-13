@@ -1,4 +1,4 @@
-# Welcome to Robot TUrtles!
+# Welcome to Robot Turtles!
 
 We are a community excited about having a Robot Turtle wandering around our homes! This is the starting repository, though there are really many repositories you may want to clone, depending on your interest. Here are the main ones:
 
